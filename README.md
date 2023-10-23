@@ -21,6 +21,7 @@ _**LLM을 활용한 일상대화 디스코드 챗봇**_
 - TTS를 활용한 음성 대화
   - 실제 사람과 대화하듯 음성으로 대화 가능
 
+
 ## 데이터셋
 
 [73000여개의 20대 여성 카카오톡 질문/답변 데이터셋](https://github.com/Ludobico/KakaoChatData)을 사용
@@ -38,6 +39,8 @@ QLoRA로 Polyglot-ko 5.8B 모델 학습 with 4bit
 [Beomi님의 Koalpaca 코랩 예제 활용](https://github.com/Beomi/KoAlpaca#fine-tune-%EB%B0%A9%EC%8B%9D-%EB%AA%A8%EB%8D%B8-%ED%95%99%EC%8A%B5-%EB%B0%A9%EB%B2%95)<br/>
 로컬에서 3070ti 8gb 사용하여 학습
 
+### 학습된 모델
+[Joo99/discord_chatbot](https://huggingface.co/Joo99/discord_chatbot/tree/main)
 
 ## 결과물(사진)
 ![image](https://github.com/zoo3323/Discord_Chatbot/assets/95582592/8e35df90-b853-43e3-a6be-a87107469824)
